@@ -1,4 +1,4 @@
-# Site - gastrobar_xpressart
+# Site - Q' Linda Store
 
 ## Sitio web orientado al area de e-comerce
 
@@ -8,6 +8,6 @@ git init
 
 git add .
 
-git commit -m "Nombre de cambio"
+git commit -m "diferencia"
 
 git push
