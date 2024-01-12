@@ -2,7 +2,7 @@
 
 ## Sitio web orientado al area de e-comerce
 
-### Visitar aquí:  
+### Visitar aquí:  https://qlindastore.vercel.app
 
 git init
 
